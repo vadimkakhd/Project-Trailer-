@@ -13,4 +13,4 @@ Authors
 
 UML-diagram
 ---------------------
-
+![uml_trailer](https://cloud.githubusercontent.com/assets/23037052/23831004/5b08885e-0720-11e7-91c8-5e598f39cb26.png)
