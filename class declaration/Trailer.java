@@ -9,11 +9,11 @@ public class Trailer {
 		
 	}
 	
-	public void add_to_film() {
+	public void add_trailer() {
 			
 		}
 	
-	public void remove() {
+	public void remove_trailer() {
 		
 	}
 }
